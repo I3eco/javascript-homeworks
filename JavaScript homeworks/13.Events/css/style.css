@@ -1,0 +1,30 @@
+#virtual-btn1 {
+	background-color: #D44937;
+	display: inline;
+	padding: 4px 10px;
+	margin: 5px;
+	color: #fff;
+	border: 1px solid #000;
+	border-radius: 4px;
+	cursor: pointer;
+}
+#virtual-btn2 {
+	background-color: #269003;
+	display: inline;
+	padding: 4px 10px;
+	margin: 5px;
+	color: #fff;
+	border: 1px solid #000;
+	border-radius: 4px;
+	cursor: pointer;
+}
+#virtual-btn3 {
+	background-color: #3B5998;
+	display: inline;
+	padding: 4px 10px;
+	margin: 5px;
+	color: #fff;
+	border: 1px solid #000;
+	border-radius: 4px;
+	cursor: pointer;
+}
